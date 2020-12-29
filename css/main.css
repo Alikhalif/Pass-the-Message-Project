@@ -12,6 +12,7 @@ body {
 .message-container {
   background: var(--mainwhite);
 }
+
 .message-content {
   color: var(--lightBlue);
 }
@@ -30,4 +31,4 @@ body {
 
 .show {
   display: block;
-}
+}ll
